@@ -21,7 +21,7 @@
     <main>
         <section>
             <h2>About Us</h2>
-            <p>This is a sample webpage created with HTML.</p>
+            <p>This is a sample webpage created with HTML using chatgpt</p>
         </section>
 
         <section>
